@@ -7,13 +7,14 @@ open an issue.
 ## Reporting a problem
 
 On a Mac, the quickest way is **Settings → About → Report a problem**. It opens a new issue here
-with the app version, build, macOS version and architecture filled in. Nothing else is filled in,
-and nothing is sent until you submit the issue yourself. On an iPhone or iPad, open an issue here
+with a title, the app version, build, macOS version and architecture, and headings for you to fill
+in. Nothing about you or your music is included, and nothing is sent until you submit the issue
+yourself. On an iPhone or iPad, open an issue here
 directly and include your device and iOS version.
 
 When you describe the problem, include what you did, what you expected, and what happened. On a
-Mac with crash reporting turned on, **Settings → Privacy** shows any crash report and lets you read
-it before attaching it here.
+Mac with crash reporting turned on, **Settings → Privacy** shows the latest crash report and lets you
+read it before attaching it here.
 
 ## Requesting a feature
 
