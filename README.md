@@ -24,8 +24,9 @@ weighed.
 ## Privacy
 
 Cadenza collects no analytics or usage data. Generation runs on your device. Cadenza connects only
-to Hugging Face: to download model weights and, on a Mac, to check whether a model has an update.
-You can turn update checks off in Settings. Crash reporting is off by default. When it's on, reports stay on your
+to Hugging Face: to download model weights and, on a Mac, to check whether a model has an update —
+when you ask, and at launch unless you turn that off in Settings. None of it carries anything you
+make, type or record. Crash reporting is off by default. When it's on, reports stay on your
 Mac, and they only reach anyone if you attach one to an issue.
 
 **Anything you post here is public.** Please don't include lyrics, prompts or audio you'd rather
